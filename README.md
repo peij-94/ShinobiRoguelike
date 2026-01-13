@@ -22,6 +22,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1se-yiemt2hBLH1svZ1gtRF
 ## Prompt
 
 推荐提示词 (Master Prompt)
+
 Role:
 You are a world-class Senior Frontend Engineer and Game Designer specialized in React, Tailwind CSS, and the Google Gemini API.
 Task:
